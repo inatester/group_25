@@ -1,3 +1,4 @@
 <xml>
+<city>Lviv</city>
 <name>Vadim<name/>
 <age>32</age>
